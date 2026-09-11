@@ -1,2 +1,2 @@
-# Creating-a-branch
+# intro-to-github
 My fist repository
